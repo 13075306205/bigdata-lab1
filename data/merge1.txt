@@ -1,0 +1,3 @@
+hello hadoop
+big data
+hello hdfs
