@@ -1,0 +1,4 @@
+2026-10-27 18:44:30,377 WARN  NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Found 2 items
+-rw-r--r--   1 apple supergroup          0 2026-10-27 18:44 /lab2/output/_SUCCESS
+-rw-r--r--   1 apple supergroup     270573 2026-10-27 18:44 /lab2/output/part-r-00000
